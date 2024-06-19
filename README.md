@@ -11,7 +11,8 @@ Although each foundation model has its own configuration steps, we provide you w
 - Python version: 3.10.
 - GPU: NVIDIA or use Google colab.
 
-All code is available in [DosDetection_FullCode.ipynb](https://github.com/layanBalbisi03/Dos-Attack-Detection-project/blob/main/DosDetection_FullCode.ipynb) , just Run it.
+All code is available in [DosDetection_FullCode.ipynb](https://github.com/0bushra/Dos-Attack-Detection-using-Ensemble-Learning/blob/main/DosDetection_FullCode.ipynb) , just Run it.
+
 
 # Models
 This project focused on Dos attack detection, a diverse array of 11 distinct machine learning models was employed. These models served as the cornerstone of approach, aimed at identifying and mitigating potential Dos attacks within network traffic data. The utilization of these models was pivotal in fortifying our defense mechanisms against the evolving landscape of cyber threats.
